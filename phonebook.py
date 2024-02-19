@@ -1,4 +1,3 @@
-import pandas as pd
 from colorama import init, Fore
 
 from processors.phonebook_processors import ExcelFileProcessor
